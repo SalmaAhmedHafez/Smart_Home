@@ -1,5 +1,5 @@
 # Smart_Home
-Here is a smart home project using arduino.
+Here is a code for smart home project using arduino.
 
 # Sensors used :
 
